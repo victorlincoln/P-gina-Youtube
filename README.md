@@ -1,4 +1,4 @@
-## Desafio Web 02
+## Desafio Web 03
 
 **Objetivo:** Replicar topo de uma página de canal do youtube.
 
